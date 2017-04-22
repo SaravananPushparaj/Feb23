@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Decbatch]">
+  <test name="RegSet1(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <exclude name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Scenario_Component.Scenario_Login">
+        <methods>
+          <include name="testInvalidlogin" invocation-numbers="0"/>
+          <include name="Initbrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- Scenario_Component.Scenario_Login -->
+    </classes>
+  </test> <!-- RegSet1(failed) -->
+</suite> <!-- Failed suite [Decbatch] -->

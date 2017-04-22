@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Janbatch" duration-ms="14589" started-at="2017-04-22T13:43:50Z" finished-at="2017-04-22T13:44:05Z">
+    <groups>
+      <group name="regression">
+        <method signature="Scenario_Login.testValidlogin(java.util.Map)[pri:0, instance:Scenario_Component.Scenario_Login@3c09711b]" name="testValidlogin" class="Scenario_Component.Scenario_Login"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="Scenario_Login.testInvalidlogin(java.util.Map)[pri:0, instance:Scenario_Component.Scenario_Login@3c09711b]" name="testInvalidlogin" class="Scenario_Component.Scenario_Login"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="RegSet1" duration-ms="14589" started-at="2017-04-22T13:43:50Z" finished-at="2017-04-22T13:44:05Z">
+      <class name="Scenario_Component.Scenario_Login">
+        <test-method status="PASS" signature="Report_extent()[pri:0, instance:Scenario_Component.Scenario_Login@3c09711b]" name="Report_extent" is-config="true" duration-ms="218" started-at="2017-04-22T19:13:50Z" finished-at="2017-04-22T19:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Report_extent -->
+        <test-method status="PASS" signature="Initbrowser()[pri:0, instance:Scenario_Component.Scenario_Login@3c09711b]" name="Initbrowser" is-config="true" duration-ms="9209" started-at="2017-04-22T19:13:51Z" finished-at="2017-04-22T19:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initbrowser -->
+        <test-method status="PASS" signature="testInvalidlogin(java.util.Map)[pri:0, instance:Scenario_Component.Scenario_Login@3c09711b]" name="testInvalidlogin" duration-ms="3929" started-at="2017-04-22T19:14:00Z" data-provider="dp_Invalidlogin" finished-at="2017-04-22T19:14:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Execute_Flag=Y, Uname=jkjk, TC_ID=GB_01, Script_name=Invalid_Login, Exp_Result=Sorry we were unable to complete this step because :, Pwd=gg, Order_Set=1.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidlogin -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Scenario_Component.Scenario_Login@3c09711b]" name="teardown" is-config="true" duration-ms="684" started-at="2017-04-22T19:14:04Z" finished-at="2017-04-22T19:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Scenario_Component.Scenario_Login -->
+    </test> <!-- RegSet1 -->
+  </suite> <!-- Janbatch -->
+</testng-results>

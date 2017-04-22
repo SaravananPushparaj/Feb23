@@ -1,0 +1,123 @@
+2017-04-21 09:39:48 INFO  Base_Class:19 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 09:39:52 INFO  Base_Class:43 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 09:39:59 INFO  Base_Class:60 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 09:40:02 INFO  Base_Class:79 - Passed as Actual Result  Hi qtpworld2008 g Expected Resut is  qtpworld2008
+2017-04-21 09:41:31 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 09:41:34 INFO  Base_Class:45 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 09:41:40 INFO  Base_Class:63 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 09:41:43 INFO  Base_Class:82 - Passed as Actual Result  Hi qtpworld2008 g Expected Resut is  qtpworld2008
+2017-04-21 09:52:43 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 09:52:54 INFO  Base_Class:67 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 09:56:26 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 09:56:34 INFO  Base_Class:64 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 09:56:36 INFO  Base_Class:84 - Passed as Actual Result  Hi qtpworld2008 g Expected Resut is  qtpworld2008
+2017-04-21 09:57:43 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 09:57:46 INFO  Base_Class:46 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 09:57:53 INFO  Base_Class:64 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 09:57:56 INFO  Base_Class:84 - Passed as Actual Result  Hi qtpworld2008 g Expected Resut is  qtpworld2008
+2017-04-21 10:08:16 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 10:09:31 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 10:10:32 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 10:10:35 INFO  Base_Class:46 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 10:15:46 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 10:15:49 INFO  Base_Class:46 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 10:16:52 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 10:16:54 INFO  Base_Class:46 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 10:17:05 INFO  Base_Class:64 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 10:17:08 INFO  Base_Class:84 - Passed as Actual Result  Hi qtpworld2008 g Expected Resut is  qtpworld2008
+2017-04-21 10:17:45 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 10:17:47 INFO  Base_Class:46 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 10:17:58 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 10:17:58 INFO  Base_Class:64 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 10:43:42 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 10:43:45 INFO  Base_Class:46 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 10:43:52 INFO  Base_Class:64 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 10:43:54 INFO  Base_Class:84 - Passed as Actual Result  Hi qtpworld2008 g Expected Resut is  qtpworld2008
+2017-04-21 10:47:06 INFO  Base_Class:21 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 10:47:09 INFO  Base_Class:46 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 10:47:15 INFO  Base_Class:64 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 10:47:20 INFO  Base_Class:84 - Passed as Actual Result  Hi qtpworld2008 g Expected Resut is  qtpworld2008
+2017-04-21 12:50:30 INFO  Base_Class:22 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 12:50:33 INFO  Base_Class:47 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 12:50:42 INFO  Base_Class:66 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 12:50:45 INFO  Base_Class:86 - Passed as Actual Result  Hi qtpworld2008 g Expected Resut is  qtpworld2008
+2017-04-21 12:53:38 INFO  Base_Class:22 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 12:54:44 INFO  Base_Class:22 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 12:54:47 INFO  Base_Class:47 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 12:54:55 INFO  Base_Class:66 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 12:54:59 INFO  Base_Class:86 - Passed as Actual Result  Hi qtpworld2008 g Expected Resut is  qtpworld2008
+2017-04-21 12:56:38 INFO  Base_Class:22 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 12:56:41 INFO  Base_Class:47 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 12:56:49 INFO  Base_Class:66 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 12:56:53 INFO  Base_Class:86 - Passed as Actual Result  Hi qtpworld2008 g Expected Resut is  qtpworld2008
+2017-04-21 13:25:32 INFO  Base_Class:22 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 13:25:35 INFO  Base_Class:47 - Failed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because
+2017-04-21 13:25:44 INFO  Base_Class:66 - Executing the Testcase GB_07 Order set is 1.0
+2017-04-21 13:25:48 INFO  Base_Class:86 - Passed as Actual Result  Hi qtpworld2008 g Expected Resut is  qtpworld2008
+2017-04-21 15:35:45 INFO  Base_Class:23 - Executing the Testcase GB_08 Order set is 1.0
+2017-04-21 15:38:39 INFO  Base_Class:23 - Executing the Testcase GB_08 Order set is 1.0
+2017-04-21 15:41:44 INFO  Base_Class:63 - Executing the Testcase GB_09 Order set is 1.0
+2017-04-21 15:41:46 INFO  Base_Class:83 - Failed as Actual Result  497 Expected Resut is  495.0
+2017-04-21 15:43:01 INFO  Base_Class:23 - Executing the Testcase GB_08 Order set is 1.0
+2017-04-21 15:43:03 INFO  Base_Class:43 - Failed as Actual Result  Sorry..'kdsf' does not match any product on Rediff Books. Expected Resut is  Sorry..'kjjjs' does not match any product on Rediff Books.
+2017-04-21 15:43:10 INFO  Base_Class:63 - Executing the Testcase GB_09 Order set is 1.0
+2017-04-21 15:43:13 INFO  Base_Class:83 - Failed as Actual Result  497 Expected Resut is  495
+2017-04-21 15:43:22 INFO  Base_Class:63 - Executing the Testcase GB_10 Order set is 1.0
+2017-04-21 15:43:24 INFO  Base_Class:83 - Failed as Actual Result  439 Expected Resut is  428
+2017-04-21 15:43:32 INFO  Base_Class:63 - Executing the Testcase GB_11 Order set is 1.0
+2017-04-21 15:43:34 INFO  Base_Class:83 - Failed as Actual Result  2 Expected Resut is  4
+2017-04-21 15:45:26 INFO  Base_Class:23 - Executing the Testcase GB_08 Order set is 1.0
+2017-04-21 15:46:34 INFO  Base_Class:63 - Executing the Testcase GB_09 Order set is 1.0
+2017-04-21 15:48:21 INFO  Base_Class:23 - Executing the Testcase GB_08 Order set is 1.0
+2017-04-21 15:49:30 INFO  Base_Class:63 - Executing the Testcase GB_09 Order set is 1.0
+2017-04-21 15:51:37 INFO  Base_Class:23 - Executing the Testcase GB_08 Order set is 1.0
+2017-04-21 15:51:55 INFO  Base_Class:43 - Failed as Actual Result  Sorry..'kjjs' does not match any product on Rediff Books. Expected Resut is  Sorry..'kjjjs' does not match any product on Rediff Books.
+2017-04-21 15:52:05 INFO  Base_Class:63 - Executing the Testcase GB_09 Order set is 1.0
+2017-04-21 15:52:07 INFO  Base_Class:78 - Passed as Actual Result  497 Expected Resut is  497
+2017-04-21 15:52:14 INFO  Base_Class:63 - Executing the Testcase GB_10 Order set is 1.0
+2017-04-21 15:52:16 INFO  Base_Class:83 - Failed as Actual Result  439 Expected Resut is  428
+2017-04-21 15:52:25 INFO  Base_Class:63 - Executing the Testcase GB_11 Order set is 1.0
+2017-04-21 15:52:26 INFO  Base_Class:78 - Passed as Actual Result  2 Expected Resut is  2
+2017-04-21 15:55:47 INFO  Base_Class:22 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 15:55:52 INFO  Base_Class:42 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 16:03:48 INFO  Base_Class:22 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 16:03:56 INFO  Base_Class:42 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 16:33:02 INFO  Base_Class:22 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 16:33:05 INFO  Base_Class:42 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 16:34:51 INFO  Base_Class:? - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 16:34:56 INFO  Base_Class:? - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 16:38:31 INFO  Base_Class:? - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 16:38:35 INFO  Base_Class:? - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 19:27:59 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 19:28:03 INFO  Base_Class:47 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 19:34:43 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 19:35:16 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 19:35:19 INFO  Base_Class:47 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 19:35:45 INFO  Base_Class:? - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 19:35:49 INFO  Base_Class:? - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 22:37:21 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 22:37:50 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 22:38:07 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 22:38:14 INFO  Base_Class:47 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 22:41:19 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 22:41:35 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 22:41:39 INFO  Base_Class:47 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 22:42:57 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 22:43:02 INFO  Base_Class:47 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 23:32:08 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 23:32:13 INFO  Base_Class:47 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 23:35:06 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 23:35:10 INFO  Base_Class:47 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 23:36:17 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 23:36:20 INFO  Base_Class:47 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 23:38:13 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 23:38:15 INFO  Base_Class:47 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 23:39:48 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 23:39:51 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 23:39:54 INFO  Base_Class:47 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 23:43:20 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 23:43:23 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 23:43:25 INFO  Base_Class:47 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
+2017-04-21 23:49:11 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 23:49:19 INFO  Base_Class:24 - Executing the Testcase GB_01 Order set is 1.0
+2017-04-21 23:49:22 INFO  Base_Class:47 - Passed as Actual Result  Sorry we were unable to complete this step because : Expected Resut is  Sorry we were unable to complete this step because :
